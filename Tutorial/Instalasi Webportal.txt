@@ -1,0 +1,7 @@
+Install Webportal
+- Install vcredist
+- Install xampp
+- Run Administrator XAMPP setting autorun Apache
+- Copy file webportal ke C:/xampp/htdocs
+- sesuaikan database di htdocs/webportal/application/config/database.php
+- Run script Refresh DB (webportal)
