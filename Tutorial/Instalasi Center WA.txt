@@ -1,0 +1,27 @@
+1.instal mozilla 56.0 (matikan updatenya seperti di gambar mozila)
+2.uninstall mozilla, kemudian install lagi mozillanya
+3.instal pyton 3.6.4 (ikuti langkah2 digambar untuk install pyton)
+4.copy folder WA bawa ke C
+  shift klik kanan pada waAPI pilih open command window here jalankan perintah dibawah ini
+	1.pip install webwhatsapi
+	2.pip install selenium
+	3.cd .. 
+	4.pip install mysqlclient-1.3.12-cp36-cp36m-win32.whl
+
+
+5.copy objects,constants.py,consts.py  ke C:\Users\folder user\AppData\Local\Programs\Python\Python36-32\Lib\site-packages       (gambar 1)(file AppData terhidden jadi pertama centang show hidden files)
+6.edit file wa.py confignya sesuaikan seperti config database.php di webportal
+7.buka file wa.py
+8.nanti firefox akan terbuka sendiri
+9.scan qrcodenya
+10.replace terminalnya gunakan terminal.exe untuk WA
+11.setting terminal (gambar setting Terminal WA)
+  ketika akan menyimpan Connect Server = WHATSAPP tidak bisa disimpan, login database mysqlnya, jalankan query dibawah ini
+  update terminal set defaultcom='WHATSAPP' where idterminal='xx' (xx diisi sesuai idterminal center whatsapp)
+
+
+
+
+
+						SELAMAT MENCOBA
+					     =====================
