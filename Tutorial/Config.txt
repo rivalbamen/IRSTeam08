@@ -1,5 +1,0 @@
-tambahkan ini script ini dibagian paling bawah
-
-c:\MYSQL\bin\MySQLDump -uroot -pirs --port=3307 --routines --events --database avr > C:\DATAIRS\irs_backup1.sql
-c:\MYSQL\bin\MySQL -uroot -pirs avr 
-c:\MYSQL\bin\MySQLDump -uroot -pirs --port=3307 --routines --events --database avr
