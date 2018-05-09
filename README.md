@@ -3,14 +3,37 @@
 - Firefox -> http://10.10.10.123:6969/firefox.exe
 - Center WA -> http://www.mediafire.com/file/36gl0edem4kq342/Center_WA.rar 
 - Center WA 2 -> https://drive.google.com/open?id=1--LiXevhxVh8Zp4pQeEE3la7s_HkBjK5
-- Microsoft Visual C++ -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
+- Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
 - Service Pack 1 -> http://www.maxicsolutions.com/2017/04/fix-windows-7-service-pack-error-python-3-5-higher.html
-
-# Script MySQL
-- Backup DB -> C:\mysql\bin\mysqldump -uroot -p -h localhost —port=3307 —routines —events —database avr > C:\backup020518.sql
-- Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
-- Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
 
 # Tutorial IRS Market
 - Pembeli -> https://youtu.be/He_ygAH-r40
 - Penjual -> https://youtu.be/asKUl4rDXhY
+
+# URL Supplier
+- Three Sakti -> http://esiaindoraya.com:88/h2h/?msisdn=<ID>&pin<PIN>&trxid=<IDTRX>&sub_msisdn=<TUJUAN>&nom=<KODE>
+
+# Contoh Center IP
+Center IP HTTPGET -> http://128.199.239.8:9219/webportal/api/h2h
+Center IP XML http://128.199.239.8:9219/webportal/api/h2hxml
+
+# Script MySQL
+- Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
+- Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
+- Reset Password DB -> SET PASSWORD FOR irs@'%' = PASSWORD('m4nd4l4'); 
+					-> FLUSH PRIVILEGES;
+- Reset Password IRS -> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
+- Refresh DB -> CREATE USER irs@'%' IDENTIFIED BY 'm4nd4l4';
+			 -> GRANT ALL PRIVILEGES ON avr.* TO 'irs'@'%';
+			 -> SET PASSWORD FOR irs@'%' = PASSWORD('m4nd4l4');
+			 -> FLUSH PRIVILEGES;
+				
+# Setting Waktu di DB linux 
+- timedatectl set-timezone Asia/Jakarta
+
+# ID Reseller IRS Market
+- 159.65.137.238
+- 159.65.137.240
+- 159.65.128.99
+- 159.65.128.140
+- 159.65.128.146
