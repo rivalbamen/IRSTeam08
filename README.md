@@ -10,9 +10,6 @@
 - Pembeli -> https://youtu.be/He_ygAH-r40
 - Penjual -> https://youtu.be/asKUl4rDXhY
 
-# URL Supplier Terminal
-- Three Sakti -> "http://esiaindoraya.com:88/h2h/?msisdn= <ID>&pin<PIN>&trxid=<IDTRX>&sub_msisdn=<TUJUAN>&nom=<KODE>"
-
 # Contoh Center IP
 - Center IP HTTPGET -> http://128.199.239.8:9219/webportal/api/h2h
 - Center IP XML http://128.199.239.8:9219/webportal/api/h2hxml
