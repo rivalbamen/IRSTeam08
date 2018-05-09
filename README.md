@@ -11,7 +11,7 @@
 - Penjual -> https://youtu.be/asKUl4rDXhY
 
 # URL Supplier
-- Three Sakti -> http://esiaindoraya.com:88/h2h/?msisdn=<ID>&pin<PIN>&trxid=<IDTRX>&sub_msisdn=<TUJUAN>&nom=<KODE>
+- Three Sakti -> "http://esiaindoraya.com:88/h2h/?msisdn=<ID>&pin<PIN>&trxid=<IDTRX>&sub_msisdn=<TUJUAN>&nom=<KODE>"
 
 # Contoh Center IP
 Center IP HTTPGET -> http://128.199.239.8:9219/webportal/api/h2h
