@@ -16,18 +16,25 @@
 
 # Script MySQL
 ```bash
-	- Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
-	- Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
-	- Reset Password IRS -> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
+#Mutasi Bank 
+> update mutasibank set status=1 where namabank='BCA';
+#Center WA 
+> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
+#Reset Password IRS 
+> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
 ```
 				
 # Setting Waktu di DB linux 
-- timedatectl set-timezone Asia/Jakarta
+```bash
+> timedatectl set-timezone Asia/Jakarta
+```
 
 # ID Reseller IRS Market
-- 159.65.137.238
-- 159.65.137.240
-- 159.65.128.99
-- 159.65.128.140
-- 159.65.128.146
-- 159.89.210.96
+```bash
+> 159.65.137.238
+> 159.65.137.240
+> 159.65.128.99
+> 159.65.128.140
+> 159.65.128.146
+> 159.89.210.96
+```
