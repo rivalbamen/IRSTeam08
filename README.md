@@ -17,13 +17,7 @@
 # Script MySQL
 - Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
 - Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
-- Reset Password DB -> SET PASSWORD FOR irs@'%' = PASSWORD('m4nd4l4'); 
-					-> FLUSH PRIVILEGES;
 - Reset Password IRS -> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
-- Refresh DB -> CREATE USER irs@'%' IDENTIFIED BY 'm4nd4l4';
-			 -> GRANT ALL PRIVILEGES ON avr.* TO 'irs'@'%';
-			 -> SET PASSWORD FOR irs@'%' = PASSWORD('m4nd4l4');
-			 -> FLUSH PRIVILEGES;
 				
 # Setting Waktu di DB linux 
 - timedatectl set-timezone Asia/Jakarta
