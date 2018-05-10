@@ -15,9 +15,11 @@
 - Center IP XML http://128.199.239.8:9219/webportal/api/h2hxml
 
 # Script MySQL
-- Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
-- Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
-- Reset Password IRS -> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
+```bash
+	- Mutasi Bank -> update mutasibank set status=1 where namabank='BCA';
+	- Center WA -> update terminal set defaultcom='WHATSAPP' where idterminal='503'; 
+	- Reset Password IRS -> update user set passworduser=md5(md5('1234admin')) where namauser='admin';
+```
 				
 # Setting Waktu di DB linux 
 - timedatectl set-timezone Asia/Jakarta
