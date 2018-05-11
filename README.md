@@ -1,8 +1,7 @@
 # Link Download 
 - Python -> https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe 
-- Firefox -> http://10.10.10.123:6969/firefox.exe
-- Center WA -> http://www.mediafire.com/file/36gl0edem4kq342/Center_WA.rar 
-- Center WA 2 -> https://drive.google.com/open?id=1--LiXevhxVh8Zp4pQeEE3la7s_HkBjK5
+- Center WA Wisnu -> http://www.mediafire.com/file/36gl0edem4kq342/Center_WA.rar 
+- Center WA Teja -> https://drive.google.com/open?id=1--LiXevhxVh8Zp4pQeEE3la7s_HkBjK5
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
 - Service Pack 1 -> http://www.maxicsolutions.com/2017/04/fix-windows-7-service-pack-error-python-3-5-higher.html
 
@@ -14,12 +13,3 @@
 - Pembeli -> https://youtu.be/He_ygAH-r40
 - Penjual -> https://youtu.be/asKUl4rDXhY
 				
-# URL/ID Reseller IRS Market
-```bash
-> 159.65.137.238
-> 159.65.137.240
-> 159.65.128.99
-> 159.65.128.140
-> 159.65.128.146
-> 159.89.210.96
-```
