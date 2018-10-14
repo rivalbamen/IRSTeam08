@@ -1,10 +1,12 @@
 # Link Download 
 - Python -> https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe 
 - XAMPP -> http://softwarepulsairs.com/update/wa_update.zip
-- Firefox -> http://www.mediafire.com/file/69ieo3sz9k1nycc/firefox.rar
+- Firefox 56 -> http://www.mediafire.com/file/69ieo3sz9k1nycc/firefox.rar
+- Firefox 57 -> https://filehippo.com/download_firefox/79535/
 - Webportal -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
 - Center WA -> http://www.mediafire.com/file/064hy3ofmwhkk1o/Center+WA.zip
+- New Center WA -> http://www.mediafire.com/file/6yny2815lh9sgyp/New_Center_WA.zip/file
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Market -> http://www.mediafire.com/file/m30akvbc21h9k0b/irs_market.zip
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
@@ -22,7 +24,7 @@
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
 - update v8 -> http://softwarepulsairs.com/update8.zip
-- update v8 -> http://www.mediafire.com/file/3bon1s50n4ms6yh/New+IRSV8.zip
+- New update v8 -> http://www.mediafire.com/file/co9zm6kodb5wh96/New_IRSV8.zip/file
 - http://softwarepulsairs.com/nodegit.zip
 - https://github.com/mozilla/geckodriver/releases
 
