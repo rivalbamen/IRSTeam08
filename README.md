@@ -1,10 +1,9 @@
 # Link Download 
 - Python -> https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe 
-- XAMPP -> http://softwarepulsairs.com/update/wa_update.zip
 - XAMPP -> https://www.mediafire.com/file/eb6uwvut6y88427/XAMPP.zip/file
 - Firefox 56 -> http://www.mediafire.com/file/69ieo3sz9k1nycc/firefox.rar
 - Firefox 57 -> https://filehippo.com/download_firefox/79535/
-- Webportal -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
+- Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
 - Center WA -> http://www.mediafire.com/file/064hy3ofmwhkk1o/Center+WA.zip
 - New Center WA -> http://www.mediafire.com/file/6yny2815lh9sgyp/New_Center_WA.zip/file
@@ -13,7 +12,6 @@
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
 - Service Pack 1 -> http://www.maxicsolutions.com/2017/04/fix-windows-7-service-pack-error-python-3-5-higher.html
 - Service Pack 1 -> https://support.microsoft.com/id-id/help/15090/windows-7-install-service-pack-1-sp1
-- Service Pack 1 New -> https://www.microsoft.com/en-us/download/details.aspx
 - MySQL 55 32bit ->	http://www.mediafire.com/file/gzwd31b5agt2317/mysql-5.5.50-win32.rar
 - MySQL 55 64bit -> http://www.mediafire.com/file/dha48zi78cu6y1d/mysql-5.5.50-winx64.rar
 - Internet Explorer 11 -> https://www.microsoft.com/id-id/download/details.aspx?id=41628
@@ -25,12 +23,11 @@
 - Git -> https://git-scm.com/download/win
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
-- update v8 -> http://softwarepulsairs.com/update8.zip
+- Update v8 -> http://softwarepulsairs.com/update8.zip
 - New update v8 -> http://www.mediafire.com/file/co9zm6kodb5wh96/New_IRSV8.zip/file
-- http://softwarepulsairs.com/nodegit.zip
-- https://github.com/mozilla/geckodriver/releases
+- Geckodriver -> https://github.com/mozilla/geckodriver/releases
 - Java -> https://www.java.com/en/download/
-- BNI -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
+- BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
 - Update Digipos -> http://blog.softwarepulsairs.com/update-digipos-irs/
 - Modul BNI -> http://blog.softwarepulsairs.com/new-module-netbanking-bni/
 
