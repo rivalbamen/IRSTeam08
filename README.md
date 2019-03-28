@@ -6,7 +6,7 @@
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
 - Center WA -> http://www.mediafire.com/file/064hy3ofmwhkk1o/Center+WA.zip
-- New Center WA -> http://www.mediafire.com/file/6yny2815lh9sgyp/New_Center_WA.zip/file
+- New Center WA -> https://www.mediafire.com/file/ttu7t9clj252e1p/New+Center+WA.zip
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Market -> http://www.mediafire.com/file/m30akvbc21h9k0b/irs_market.zip
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
@@ -40,11 +40,11 @@
 - Penjual -> https://youtu.be/asKUl4rDXhY
 
 # Tester Apk
-versi 7 : 
+Versi 7 : 
 - url : http://128.199.239.8:9285/webportal/applikasi/
 - key : q8EGlE6zsp4uEzmKNjHFdBbzcsdSF1si
 
-versi 8 : 
+Versi 8 : 
 - url : http://167.99.73.215:8080/
 - key : candysaavianagandari
 
