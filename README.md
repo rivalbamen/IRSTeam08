@@ -5,8 +5,8 @@
 - Firefox 57 -> https://filehippo.com/download_firefox/79535/
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
-- Center WA -> http://www.mediafire.com/file/064hy3ofmwhkk1o/Center+WA.zip
-- New Center WA -> https://www.mediafire.com/file/ttu7t9clj252e1p/New+Center+WA.zip
+- Center WA -> http://www.mediafire.com/file/1fbulht50soown0/Center+WA.zip
+- New Center WA -> http://www.mediafire.com/file/f317hituur7qt5z/New+Center+WA.zip
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Market -> http://www.mediafire.com/file/m30akvbc21h9k0b/irs_market.zip
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
@@ -30,7 +30,7 @@
 - Update Digipos -> http://blog.softwarepulsairs.com/update-digipos-irs/
 - Modul BNI -> http://blog.softwarepulsairs.com/new-module-netbanking-bni/
 - Open VPN -> https://openvpn.net/community-downloads/
-
+- http://chromedriver.chromium.org/downloads
 # Contoh Center IP
 - Center IP HTTPGET -> http://128.199.132.194:9898/webportal/api/h2h
 - Center IP XML -> http://128.199.132.194:9898/webportal/api/h2hxml
