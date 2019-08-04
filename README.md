@@ -25,12 +25,13 @@
 - Update v8 -> http://softwarepulsairs.com/update8.zip
 - New update v8 -> http://www.mediafire.com/file/co9zm6kodb5wh96/New_IRSV8.zip/file
 - Geckodriver -> https://github.com/mozilla/geckodriver/releases
+- Chromedriver -> http://chromedriver.chromium.org/downloads
 - Java -> https://www.java.com/en/download/
 - BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
-- Update Digipos -> http://blog.softwarepulsairs.com/update-digipos-irs/
-- Modul BNI -> http://blog.softwarepulsairs.com/new-module-netbanking-bni/
+- MandiriOnline -> http://www.mediafire.com/file/f8wl6bhxn4o213v/mandiriOnline.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
-- http://chromedriver.chromium.org/downloads
+
+
 # Contoh Center IP
 - Center IP HTTPGET -> http://128.199.132.194:9898/webportal/api/h2h
 - Center IP XML -> http://128.199.132.194:9898/webportal/api/h2hxml
