@@ -28,7 +28,7 @@
 - Chromedriver -> http://chromedriver.chromium.org/downloads
 - Java -> https://www.java.com/en/download/
 - BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
-- MandiriOnline -> http://www.mediafire.com/file/f8wl6bhxn4o213v/mandiriOnline.zip/file
+- MandiriOnline -> http://www.mediafire.com/file/7knncne6feuyb3e/mandiriOnline.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
 
 
