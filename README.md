@@ -30,5 +30,4 @@
 - MandiriOnline -> http://www.mediafire.com/file/fpgpj53bhxb3dq2/mandirionline.zip/file
 - WA bot -> http://www.mediafire.com/file/tse85tcv39bqhnc/wabotnew.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
-
 - MandiriOnlineNew -> https://gitlab.com/avianadev/irs9/mandirionline
