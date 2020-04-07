@@ -5,8 +5,6 @@
 - Firefox 57 -> https://filehippo.com/download_firefox/79535/
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
-- Center WA -> http://www.mediafire.com/file/1fbulht50soown0/Center+WA.zip
-- New Center WA -> http://www.mediafire.com/file/f317hituur7qt5z/New+Center+WA.zip
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Market -> http://www.mediafire.com/file/m30akvbc21h9k0b/irs_market.zip
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
@@ -19,14 +17,18 @@
 - Whatsapp Apk -> https://www.whatsapp.com/android/
 - Video Tutorial IRS -> https://www.mediafire.com/?mr09xdlzxbtdy1i
 - Node JS -> https://nodejs.org/en/download/current/
+- Node v8 -> https://nodejs.org/dist/latest-v8.x/node-v8.16.2-x86.msi
+- Node v8 64 bit -> https://nodejs.org/dist/v8.8.1/node-v8.8.1-x64.msi
 - Git -> https://git-scm.com/download/win
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
 - Update v8 -> http://softwarepulsairs.com/update8.zip
 - New update v8 -> http://www.mediafire.com/file/co9zm6kodb5wh96/New_IRSV8.zip/file
-- Geckodriver -> https://github.com/mozilla/geckodriver/releases
 - Chromedriver -> http://chromedriver.chromium.org/downloads
 - Java -> https://www.java.com/en/download/
 - BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
-- MandiriOnline -> http://www.mediafire.com/file/7knncne6feuyb3e/mandiriOnline.zip/file
+- MandiriOnline -> http://www.mediafire.com/file/fpgpj53bhxb3dq2/mandirionline.zip/file
+- WA bot -> http://www.mediafire.com/file/tse85tcv39bqhnc/wabotnew.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
+
+- MandiriOnlineNew -> https://gitlab.com/avianadev/irs9/mandirionline
