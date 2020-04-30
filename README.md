@@ -31,3 +31,5 @@
 - WA bot -> http://www.mediafire.com/file/tse85tcv39bqhnc/wabotnew.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
 - MandiriOnlineNew -> https://gitlab.com/avianadev/irs9/mandirionline
+- Smartadapter -> https://eload.smartfren.com/SmartAdapter/
+- IRS Gateway -> http://www.mediafire.com/file/p9v1izfi412vf19/IRS_Gateway.apk/file
