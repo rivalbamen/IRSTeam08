@@ -17,8 +17,10 @@
 - Whatsapp Apk -> https://www.whatsapp.com/android/
 - Video Tutorial IRS -> https://www.mediafire.com/?mr09xdlzxbtdy1i
 - Node JS -> https://nodejs.org/en/download/current/
-- Node v8 -> https://nodejs.org/dist/latest-v8.x/node-v8.16.2-x86.msi
-- Node v8 64 bit -> https://nodejs.org/dist/v8.8.1/node-v8.8.1-x64.msi
+- Node v10 32 ->https://nodejs.org/dist/latest-v10.x/node-v10.21.0-x86.msi
+- Node v10 64 -> https://nodejs.org/dist/latest-v10.x/node-v10.21.0-x64.msi
+- Node v8 32 -> https://nodejs.org/dist/latest-v8.x/node-v8.16.2-x86.msi
+- Node v8 64 -> https://nodejs.org/dist/v8.8.1/node-v8.8.1-x64.msi
 - Git -> https://git-scm.com/download/win
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
@@ -32,3 +34,4 @@
 - Open VPN -> https://openvpn.net/community-downloads/
 - Smartadapter -> https://eload.smartfren.com/SmartAdapter/
 - IRS Gateway -> http://www.mediafire.com/file/p9v1izfi412vf19/IRS_Gateway.apk/file
+- VPN -> http://www.mediafire.com/file/ansb02djvpq8nrp/openvpn-install-2.4.6-I602.exe/file
