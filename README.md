@@ -24,6 +24,7 @@
 - Java -> https://www.java.com/en/download/
 - BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
 - MandiriOnline -> http://www.mediafire.com/file/fpgpj53bhxb3dq2/mandirionline.zip/file
+- BRI Bisnis -> https://www.mediafire.com/file/vnuzvwg8sbvngw6/bribiz.zip/file
 - Open VPN -> https://openvpn.net/community-downloads/
 - Smartadapter -> https://eload.smartfren.com/SmartAdapter/
 - IRS Gateway -> http://www.mediafire.com/file/p9v1izfi412vf19/IRS_Gateway.apk/file
