@@ -3,8 +3,6 @@
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
 - XAMPP -> https://www.mediafire.com/file/eb6uwvut6y88427/XAMPP.zip/file
-- Firefox 56 -> http://www.mediafire.com/file/69ieo3sz9k1nycc/firefox.rar
-- Firefox 57 -> https://filehippo.com/download_firefox/79535/
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
 - Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
