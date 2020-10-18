@@ -5,19 +5,14 @@
 - XAMPP -> https://www.mediafire.com/file/eb6uwvut6y88427/XAMPP.zip/file
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
-- Microsoft Visual C++ 2015 -> https://www.microsoft.com/en-us/download/details.aspx?id=48145
 - Service Pack 1 -> https://support.microsoft.com/id-id/help/15090/windows-7-install-service-pack-1-sp1
 - MySQL 55 32bit ->	http://www.mediafire.com/file/gzwd31b5agt2317/mysql-5.5.50-win32.rar
 - MySQL 55 64bit -> http://www.mediafire.com/file/dha48zi78cu6y1d/mysql-5.5.50-winx64.rar
 - Internet Explorer 11 -> https://www.microsoft.com/id-id/download/details.aspx?id=41628
-- Genimotion Emulator -> https://www.genymotion.com/download
 - NOX Emulator -> https://downloadnox.com/pc/
 - Whatsapp Apk -> https://www.whatsapp.com/android/
 - Node JS -> https://nodejs.org/en/download/current/
-- Node v10 32 ->https://nodejs.org/dist/latest-v10.x/node-v10.21.0-x86.msi
-- Node v10 64 -> https://nodejs.org/dist/latest-v10.x/node-v10.21.0-x64.msi
-- Node v8 32 -> https://nodejs.org/dist/latest-v8.x/node-v8.16.2-x86.msi
-- Node v8 64 -> https://nodejs.org/dist/v8.8.1/node-v8.8.1-x64.msi
+- Node v10 -> https://nodejs.org/dist/latest-v10.x/
 - Git -> https://git-scm.com/download/win
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - Chromedriver -> http://chromedriver.chromium.org/downloads
@@ -29,3 +24,6 @@
 - Smartadapter -> https://eload.smartfren.com/SmartAdapter/
 - IRS Gateway -> http://www.mediafire.com/file/p9v1izfi412vf19/IRS_Gateway.apk/file
 - VPN -> http://www.mediafire.com/file/ansb02djvpq8nrp/openvpn-install-2.4.6-I602.exe/file
+- Microsof Visual C++ -> https://www.microsoft.com/en-US/download/details.aspx?id=52685
+- WA API WITA -> http://www.mediafire.com/file/h0vxbtmmu3go9pg/wacenter2.0wita.zip/file
+- WA API WIB -> http://www.mediafire.com/file/sir6n9v1pzw8zih/wacenter2.0wib.zip/file
