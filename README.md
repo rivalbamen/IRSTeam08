@@ -2,21 +2,31 @@
 - Video Tutorial IRS -> https://www.mediafire.com/?mr09xdlzxbtdy1i
 - IRS Versi 7 -> http://www.mediafire.com/file/dotlde0vyoitpm2/IRS%20Versi%207.zip
 - IRS Versi 8 -> http://softwarepulsairs.com/IRSSetup8.exe
+- IRSX -> https://www.mediafire.com/file/ezafmjb4fkg1ucn/IRSSetupX_13102021.exe/file
 - XAMPP -> https://www.mediafire.com/file/eb6uwvut6y88427/XAMPP.zip/file
+- XAMPP 64bit -> https://www.apachefriends.org/download.html
 - Webportalv7 -> http://www.mediafire.com/file/xcg27coxptfiagd/Webportal_%2528New_Update%2529.zip/file
 - Webharga -> http://www.mediafire.com/file/f2c3q96caqdr6jq/Web%20Harga.zip
+- Webportal IRSX -> https://www.mediafire.com/file/6yg4xfohhkd1pce/webportal_IRSX.zip/file
 - Service Pack 1 -> https://support.microsoft.com/id-id/help/15090/windows-7-install-service-pack-1-sp1
-- MySQL 55 32bit ->	http://www.mediafire.com/file/gzwd31b5agt2317/mysql-5.5.50-win32.rar
-- MySQL 55 64bit -> http://www.mediafire.com/file/dha48zi78cu6y1d/mysql-5.5.50-winx64.rar
+- Service Pack 1 new -> https://windows-7-service-pack-sp1-64-bits.id.uptodown.com/windows/download
+- MySQL55 32bit ->	http://www.mediafire.com/file/gzwd31b5agt2317/mysql-5.5.50-win32.rar
+- MySQL55 64bit -> http://www.mediafire.com/file/dha48zi78cu6y1d/mysql-5.5.50-winx64.rar
 - Internet Explorer 11 -> https://www.microsoft.com/id-id/download/details.aspx?id=41628
 - NOX Emulator -> https://downloadnox.com/pc/
 - Whatsapp Apk -> https://www.whatsapp.com/android/
 - Node JS -> https://nodejs.org/en/download/current/
 - Node v10 -> https://nodejs.org/dist/latest-v10.x/
+- node v11 -> https://nodejs.org/dist/v11.4.0/node-v11.4.0-x64.msi
+- Node v13 -> https://nodejs.org/dist/v13.4.0/
+- Node v16 -> https://nodejs.org/download/release/v16.19.0/node-v16.19.0-x64.msi
 - Git -> https://git-scm.com/download/win
 - WAIRS -> http://www.mediafire.com/file/fv68a9thpc59u3f/wa-irs-ref2.apk/file
 - Chromedriver -> http://chromedriver.chromium.org/downloads
 - Java -> https://www.java.com/en/download/
+- Java -> https://www.mediafire.com/file/ollssq175nepasa/JavaSetup8u221.exe/file
+- Java IRSX -> https://www.java.com/download/ie_manual.jsp
+- JRE -> https://www.mediafire.com/file/7a2kuk6ifqutd4l/jre-8u221-windows-x64.exe/file
 - BNI IRS -> http://www.mediafire.com/file/4moj14jh6vwusro/BNI-IRS.zip/file
 - MandiriOnline -> http://www.mediafire.com/file/fpgpj53bhxb3dq2/mandirionline.zip/file
 - BRI Bisnis -> https://www.mediafire.com/file/vnuzvwg8sbvngw6/bribiz.zip/file
@@ -24,6 +34,8 @@
 - Smartadapter -> https://eload.smartfren.com/SmartAdapter/
 - IRS Gateway -> http://www.mediafire.com/file/p9v1izfi412vf19/IRS_Gateway.apk/file
 - VPN -> http://www.mediafire.com/file/ansb02djvpq8nrp/openvpn-install-2.4.6-I602.exe/file
-- Microsof Visual C++ -> https://www.microsoft.com/en-US/download/details.aspx?id=52685
+- Microsoft Visual C++ -> https://www.microsoft.com/en-US/download/details.aspx?id=52685
+- Microsoft Edge -> https://www.microsoftedgeinsider.com/en-us/download
 - WA API WITA -> http://www.mediafire.com/file/h0vxbtmmu3go9pg/wacenter2.0wita.zip/file
 - WA API WIB -> http://www.mediafire.com/file/sir6n9v1pzw8zih/wacenter2.0wib.zip/file
+
